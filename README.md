@@ -34,4 +34,8 @@ Or run it with node
 node app.js
 ```
 
+Access to 
+```
+http://localhost:300/api
+```
 
